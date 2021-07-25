@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/teckgeek/Desktop/EnrichAi/concox-master/GPS/.0ce7330f7765e57664013677a1bbdb3597e2f3a1-audit.json",
+    "files": [
+        {
+            "date": 1627134474552,
+            "name": "/home/teckgeek/Desktop/EnrichAi/concox-master/GPS/gps-2021-07-24.log",
+            "hash": "427d843f9afee51d69f3333a2b4702d3"
+        }
+    ]
+}
